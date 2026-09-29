@@ -132,3 +132,8 @@ Loan-Approval-Project/
 └── static/
     ├── style.css
     └── script.js
+
+##How to run:
+pip install -r requirements.txt
+python app.py
+
